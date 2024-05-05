@@ -1,2 +1,2 @@
-# 2024-AI-courses
- 
+# 2024-AI-course
+
